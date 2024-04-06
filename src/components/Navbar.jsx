@@ -12,7 +12,7 @@ import { FaDribbble } from "react-icons/fa";
 
 // Images
 
-import Logo from "../assets/kevinRushLogo.png"
+import Logo from "../assets/logo.png"
 
 const Navbar = () => {
   return (
